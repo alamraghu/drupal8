@@ -1,5 +1,5 @@
 <?php
-
+h;
 namespace Drupal\token;
 
 interface TokenInterface {
